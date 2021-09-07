@@ -36,8 +36,8 @@ import * as filters from './filters' // global filters
 import Pagination from '@/components/Pagination'
 import BasicLayout from '@/layout/BasicLayout'
 
-import VueParticles from 'vue-particles'
-Vue.use(VueParticles)
+// import VueParticles from 'vue-particles'
+// Vue.use(VueParticles)
 
 import '@/utils/dialog'
 
